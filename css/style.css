@@ -274,3 +274,384 @@
     color:white;
     margin-top:10px;
 }
+.third-section{
+    max-width:1920px;
+    width:100%;
+    height:550px;
+    background-color:darkblue;
+    display: flex;
+    align-items: center;
+}
+.bg-img2{
+    background-image: url(../images/second.jpg);
+    height:550px;
+    max-width:725px;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative; 
+}
+.blue-line2{
+    background-color:#1B3D81;
+    max-width:100px;
+    width:100%;
+    height:400px;
+    position: absolute;
+    top:13.7%;
+    left:86.3%;
+    opacity: 0.5;
+}
+.flip{
+    max-width:350px;
+    width:100%;
+    height:400px;
+    background-color:#1B3D81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.aboutus{
+    font-size:35px;
+    color:white;
+    
+}
+.great{
+    font-size:20px;
+    color:white;
+    margin-top:10px;
+    text-align: center;
+}
+.flip-text1{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.flip-text2{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.flip-text3{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.flip-text4{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.flip-text5{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.flip-text6{
+    color:white;
+    font-size:16px;
+    margin-top:5px;
+}
+.forth-section{
+    background-color:darkblue;
+    max-width:1920px;
+    width:100%;
+    height:200px;
+}
+.percents{
+    max-width:1920px;
+    width:100%;
+    height:200px;
+    margin:0 auto;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    justify-content: space-around;
+}
+.left-per{
+    background-color:#1B3D81;
+    max-width:250px;
+    width:100%;
+    height:170px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+
+}
+.center-per{
+    background-color:#1B3D81;
+    max-width:250px;
+    width:100%;
+    height:170px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.right-per{
+    background-color:#1B3D81;
+    max-width:250px;
+    width:100%;
+    height:170px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.fa-icon{
+    display: flex;
+    justify-content: center;
+    margin-top:15px;
+    color:white;
+    cursor: pointer;
+}
+.plus{
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+    margin-top:10px;
+    color:white;
+}
+.plus:hover{
+    font-size:35px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.plus2:hover{
+    font-size:35px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.plus3:hover{
+    font-size:35px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.web{
+    display: flex;
+    justify-content: center;
+    font-size:25px;
+    margin-top:10px;
+    color:grey;
+}
+.plus2{
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+    margin-top:10px;
+    color:white;
+}
+.brand{
+    display: flex;
+    justify-content: center;
+    font-size:25px;
+    margin-top:10px;
+    color:grey;
+}
+.medal-icon{
+    display: flex;
+    justify-content: center;
+    margin-top:15px;
+    color:white;
+    cursor: pointer;
+}
+.plus3{
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+    margin-top:10px;
+    color:white;
+}
+.costumers{
+    display: flex;
+    justify-content: center;
+    font-size:25px;
+    margin-top:10px;
+    color:grey;
+}
+.search-icon{
+    display: flex;
+    justify-content: center;
+    margin-top:15px;
+    color:white;
+    cursor: pointer;
+}
+.footer-div{
+    max-width:1920px;
+    width:100%;
+    height:250px;
+    background-color:darkblue;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.footer-left{
+    max-width:290px;
+    width:100%;
+    height:170px;
+}
+.usa{
+    text-align: center;
+    font-size:30px;
+    color:white;
+    margin-top:5px;
+    cursor: pointer;
+}
+.usa:hover{
+    font-size:35px;
+    transition: 0.5s;
+}
+.email:hover{
+    font-size:25px;
+    transition: 0.5s;
+}
+.email{
+    text-align: center;
+    font-size:20px;
+    color:white;
+    margin-top:5px;
+    cursor: pointer;
+}
+.call{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    margin-top:5px;
+    cursor: pointer;
+}
+.call:hover{
+    font-size:25px;
+    transition: 0.5s;
+}
+.fcb-icon{
+    color:#3b5998;
+    margin-left:40px;
+    margin-top:10px;
+    cursor: pointer;
+}
+.twt-icon{
+    color:#00acee;
+    margin-left:10px;
+    margin-top:10px;
+    cursor: pointer;
+}
+.google-icon{
+    color:#4285F4;
+    margin-left:10px;
+    margin-top:10px;
+    cursor: pointer;
+}
+.in-icon{
+    color:greenyellow;
+    margin-left:10px;
+    margin-top:10px;
+    cursor: pointer;
+}
+.footer-center{
+    max-width:250px;
+    width:100%;
+    height:170px;
+}
+.wish{
+    text-align: center;
+    font-size:30px;
+    color:white;
+    margin-top:5px;
+}
+.wish:hover{
+    font-size:35px;
+}
+.terms{
+    text-align: center;
+    font-size:20px;
+    cursor: pointer;
+    color:white;
+    margin-top:5px;
+}
+.terms:hover{
+    font-size:25px;
+}
+.privacy{
+    text-align: center;
+    font-size:20px;
+    cursor: pointer;
+    color:white;
+    margin-top:5px;
+}
+.privacy:hover{
+    font-size:25px;
+}
+.map{
+    text-align: center;
+    font-size:20px;
+    cursor: pointer;
+    color:white;
+    margin-top:5px;
+}
+.map:hover{
+    font-size:25px;
+}
+.footer-right{
+    max-width:330px;
+    width:100%;
+    height:170px;
+}
+.tech{
+    text-align: center;
+    font-size:30px;
+    color:white;
+    margin-top:5px;
+}
+.tech:hover{
+    font-size:35px;
+    transition: 0.5s;
+}
+.addres{
+    text-align: center;
+    font-size:20px;
+    cursor: pointer;
+    color:white;
+    margin-top:5px;
+}
+.addres:hover{
+    font-size:25px;
+    transition: 0.5s;
+}
+.khulna{
+    text-align: center;
+    font-size:20px;
+    cursor: pointer;
+    color:white;
+    margin-top:5px;
+}
+.khulna:hover{
+    font-size:25px;
+    transition: 0.5s;
+}
+.last-button{
+    max-width:130px;
+    width:100%;
+    height:40px;
+    margin-left:60px;
+    background-color:darkblue;
+    color:white;
+    margin-top:20px;
+}
+.last-line{
+    max-width:1920px;
+    width:100%;
+    height:100px;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.end{
+    font-size:20px;
+    color:white;
+}
+.me{
+    font-size:20px;
+    color:white;
+}
