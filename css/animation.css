@@ -1,0 +1,9 @@
+@keyframes mymove {
+    from {right: 900px;}
+    to {right: 0px;}
+  }
+
+@keyframes example {
+    from {top: 200px;}
+    to {top: 0px;}
+  }
