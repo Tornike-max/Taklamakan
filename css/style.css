@@ -776,5 +776,72 @@
 .service-last{
     max-width:1920px;
     width:100%;
-    height:500px;
+    height:420px;
+    background-color:darkblue;
+    display: flex;
+}
+.service-image{
+    background-image: url(../images/fingers.jpg);
+    height:350px;
+    max-width:750px;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    top:1%;
+}
+.small{
+    max-width:70px;
+    width:100%;
+    height:400px;
+    background-color:#3b5998;
+    top: 152.5%;
+    left:55.5%;
+    position: absolute;
+    opacity: 0.5;
+}
+.sma{
+    max-width:500px;
+    width:100%;
+    height:400px;
+    background-color:#3b5998;
+    margin-top:-20px;
+}
+.path{
+    font-size:35px;
+    color:white;
+    margin-left:50px;
+    margin-top:30px;
+}
+.wordpress{
+    font-size:17px;
+    margin-left:30px;
+    margin-top:20px;
+}
+.tap{
+    max-width:130px;
+    width:100%;
+    height:40px;
+    background-color:#3b5998;
+    color:white;
+    margin-left:30px;
+    margin-top:20px;
+}
+.service-footer{
+    max-width:1920px;
+    width:100%;
+    height:50px;
+    background-color:darkblue;
+    position: relative;
+}
+.footer-tap{
+    max-width:140px;
+    width:100%;
+    height:45px;
+    background-color:#3b5998;
+    color:white;
+    position: absolute;
+    left:61.5%;
+    top:-20%;
 }
