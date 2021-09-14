@@ -1730,4 +1730,199 @@ form.example input[type=text] {
       padding-top:8px;
       cursor: pointer;
   }
-  
+
+  /* portfolio */
+
+  .portfolio{
+    max-width:1920px;
+    width:100%;
+    height:350px;
+}
+.portfolio-head{
+    position: absolute;
+    font-size:40px;
+    color:white;
+    top:50%;
+    left:15%;
+}
+.portfolio-bg{
+    background-image: url(../images/service.jpg);
+    height: 350px;
+    max-width: 1920px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.wrapper-mom{
+    max-width:1920px;
+    width:100%;
+    height:110px;
+    background-color:darkblue;
+}
+.port-wrapper{
+    max-width:800px;
+    width:100%;
+    height:100px;
+    background-color:#3b5998;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}   
+.head-wrap1{
+    color:white;
+    font-size:20px;
+}
+.head-wrap1:hover{
+    color:rgba(245, 245, 245, 0.548);
+    font-size:22px;
+    transition:0.5s;
+    cursor: pointer;
+}
+.head-wrap2{
+    color:white;
+    font-size:20px;
+}
+.head-wrap2:hover{
+    color:rgba(245, 245, 245, 0.548);
+    font-size:22px;
+    transition:0.5s;
+    cursor: pointer;
+}
+.head-wrap3{
+    color:white;
+    font-size:20px;
+}
+.head-wrap3:hover{
+    color:rgba(245, 245, 245, 0.548);
+    font-size:22px;
+    transition:0.5s;
+    cursor: pointer;
+}
+.head-wrap4{
+    color:white;
+    font-size:20px;
+}
+.head-wrap4:hover{
+    color:rgba(245, 245, 245, 0.548);
+    font-size:22px;
+    transition:0.5s;
+    cursor: pointer;
+}
+.container3{
+    max-width:1920px;
+    width:100%;
+    height:1460px;
+    background-color:darkblue;
+}
+.photo-box{
+    max-width:1000px;
+    width:100%;
+    height:750px;
+    background-color:#3b5998;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    position: relative;
+}
+.ozb{
+    max-width:220px;
+    width:100%;
+    max-height:220px;
+    height:100%;
+}
+.ozb:hover{
+    max-width:230px;
+    width:100%;
+    max-height:230px;
+    height:100%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.port-load{
+    max-width :300px;
+    width:100%;
+    height:100px;
+    background-color:darkblue;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.port-button{
+    max-width:160px;
+    width:100%;
+    height:50px;
+    background-color:#3b5998;
+    color:white;
+    transition: 0.5s;
+    
+}
+.port-button:hover{
+    border-radius: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.bg-portan{
+    background-image: url(../portfolio/purple-computer.jpg);
+    height: 450px;
+    max-width: 820px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    border-radius: 30px;
+    display: flex;
+}
+.back2back{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pasemail{
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    margin-top:40px;
+    align-items: center;
+}
+.subs{
+    max-width:130px;
+    width:100%;
+    height:50px;
+    font-size: 25px;
+}
+.brbrem{
+    max-width: 210px;
+    width:100%;
+    height:30px;
+}
+.pspsword{
+    max-width: 210px;
+    width:100%;
+    height:30px;
+    
+}
+.f-div{
+    max-width:400px;
+    width:100%;
+    height:400px;
+    background-color:#3b5998;
+    margin-top:20px;
+    border-radius: 30px;
+}
+.act-head{
+    font-size:30px;
+    text-align: center;
+    color: white;
+    margin-top:20px;
+}
+.act-text{
+    font-size:20px;
+    color:white;
+    margin-top:20px;
+    text-align: center;
+}
