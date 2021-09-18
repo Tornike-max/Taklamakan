@@ -4,9 +4,11 @@
     height:70px;
     background-color:darkblue;
     display: flex;
+    display: flex;
     position:fixed;
     z-index: 10;
 }
+
 .logo{
     max-width:243px;
     width:100%;
@@ -33,6 +35,18 @@
     font-size:20px;
     color:#D1E0FB;
     font-family: 'Roboto Mono', monospace;
+}
+.navbar-links.active{
+    display: block;
+ }
+ .toggle-button{
+    position: absolute;
+    top:45px;
+    right:20px;
+    font-size:25px;
+    color:#D1E0FB;
+    display: none;
+    cursor: pointer;
 }
 .nav-li a:hover{
     font-size:30px;
