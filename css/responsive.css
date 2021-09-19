@@ -437,6 +437,39 @@
     .flip-text6{
         font-size:14px;
     }
+    .usa {
+        font-size: 18px;
+    }
+    .email {
+        font-size: 16px;
+    }
+    .call {
+        font-size: 16px;
+    }
+    .wish {
+        font-size: 18px;
+    }
+    .terms {
+        font-size: 16px;
+    }
+    .privacy {
+        font-size: 16px;
+    }
+    .map {
+        font-size: 16px;
+    }
+    .tech {
+        font-size: 18px;
+    }
+    .addres {
+        font-size: 16px;
+    }
+    .khulna {
+        font-size: 16px;
+    }
+    .footer-div {
+        height: 190px;
+    }
 }
 
 @media only screen and (max-width: 570px){
@@ -671,35 +704,38 @@
     .footer-right{
         max-width:220px;
     }
-    .usa{
-        font-size:20px;
+    .usa {
+        font-size: 14px;
     }
-    .email{
-        font-size:16px;
+    .email {
+        font-size: 12px;
     }
-    .call{
-        font-size:16px;
+    .call {
+        font-size: 12px;
     }
-    .wish{
-        font-size:20px;
+    .wish {
+        font-size: 14px;
     }
-    .terms{
-        font-size:16px;
+    .terms {
+        font-size: 12px;
     }
-    .privacy{
-        font-size:16px;
+    .privacy {
+        font-size: 12px;
     }
-    .map{
-        font-size:16px;
+    .map {
+        font-size: 12px;
     }
-    .tech{
-        font-size:20px;
+    .tech {
+        font-size: 14px;
     }
-    .addres{
-        font-size:16px;
+    .addres {
+        font-size: 12px;
     }
-    .khulna{
-        font-size:16px;
+    .khulna {
+        font-size: 12px;
+    }
+    .footer-div {
+        height: 190px;
     }
     .last-button{
         max-width:100px;
@@ -764,6 +800,39 @@
     }
     .earth-icon{
         margin-left:70px;
+    }
+    .usa {
+        font-size: 14px;
+    }
+    .email {
+        font-size: 12px;
+    }
+    .call {
+        font-size: 12px;
+    }
+    .wish {
+        font-size: 14px;
+    }
+    .terms {
+        font-size: 12px;
+    }
+    .privacy {
+        font-size: 12px;
+    }
+    .map {
+        font-size: 12px;
+    }
+    .tech {
+        font-size: 14px;
+    }
+    .addres {
+        font-size: 12px;
+    }
+    .khulna {
+        font-size: 12px;
+    }
+    .footer-div {
+        height: 190px;
     }
 }
 
@@ -861,6 +930,39 @@
     }
     .google-icon{
         display: none;
+    }
+    .usa {
+        font-size: 14px;
+    }
+    .email {
+        font-size: 12px;
+    }
+    .call {
+        font-size: 12px;
+    }
+    .wish {
+        font-size: 14px;
+    }
+    .terms {
+        font-size: 12px;
+    }
+    .privacy {
+        font-size: 12px;
+    }
+    .map {
+        font-size: 12px;
+    }
+    .tech {
+        font-size: 14px;
+    }
+    .addres {
+        font-size: 12px;
+    }
+    .khulna {
+        font-size: 12px;
+    }
+    .footer-div {
+        height: 190px;
     }
 
 }
@@ -985,6 +1087,39 @@
         max-width: 210px;
         height: 175px;
     }
+    .usa {
+        font-size: 14px;
+    }
+    .email {
+        font-size: 12px;
+    }
+    .call {
+        font-size: 12px;
+    }
+    .wish {
+        font-size: 14px;
+    }
+    .terms {
+        font-size: 12px;
+    }
+    .privacy {
+        font-size: 12px;
+    }
+    .map {
+        font-size: 12px;
+    }
+    .tech {
+        font-size: 14px;
+    }
+    .addres {
+        font-size: 12px;
+    }
+    .khulna {
+        font-size: 12px;
+    }
+    .footer-div {
+        height: 190px;
+    }
 }
 
 @media only screen and (max-width: 352px){
@@ -999,5 +1134,37 @@
         max-width: 130px;
         height: 210px;
     }
-
+    .usa {
+        font-size: 14px;
+    }
+    .email {
+        font-size: 12px;
+    }
+    .call {
+        font-size: 12px;
+    }
+    .wish {
+        font-size: 14px;
+    }
+    .terms {
+        font-size: 12px;
+    }
+    .privacy {
+        font-size: 12px;
+    }
+    .map {
+        font-size: 12px;
+    }
+    .tech {
+        font-size: 14px;
+    }
+    .addres {
+        font-size: 12px;
+    }
+    .khulna {
+        font-size: 12px;
+    }
+    .footer-div {
+        height: 190px;
+    }
 }
