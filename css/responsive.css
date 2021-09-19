@@ -308,6 +308,73 @@
     .aboutus{
         font-size:30px;
     }
+    .usa {
+        font-size: 22px;
+    }
+    .usa:hover{
+        font-size:23px;
+    }
+    .email {
+        font-size: 18px;
+    }
+    .email:hover{
+        font-size:19px;
+    }
+    .call {
+        font-size: 18px;
+    }
+    .call:hover{
+        font-size:19px;
+    }
+    .wish {
+        font-size: 22px;
+    }
+    .wish:hover{
+        font-size:23px;
+    }
+    .terms {
+        font-size: 18px;
+    }
+    .terms:hover{
+        font-size:19px;
+    }
+    .privacy {
+        font-size: 18px;
+    }
+    .privacy:hover{
+        font-size:19px;
+    }
+    .map {
+        font-size: 18px;
+    }
+    .map:hover{
+        font-size:19px;
+    }
+    .tech {
+        font-size: 22px;
+    }
+    .tech:hover{
+        font-size:23px;
+    }
+    .addres {
+        font-size: 18px;
+    }
+    .addres:hover{
+        font-size:19px;
+    }
+    .khulna {
+        font-size: 18px;
+    }
+    .khulna:hover{
+        font-size:19px;
+    }
+    .footer-div {
+        height: 190px;
+    }
+    .last-button {
+        margin-left: -161px;
+        margin-top: 35px;
+    }
 
 }
 
@@ -322,6 +389,73 @@
     }
     .bg-div{
         max-width:240px;
+    }
+    .usa {
+        font-size: 17px;
+    }
+    .usa:hover{
+        font-size:18px;
+    }
+    .email {
+        font-size: 16px;
+    }
+    .email:hover{
+        font-size:17px;
+    }
+    .call {
+        font-size: 16px;
+    }
+    .call:hover{
+        font-size:17px;
+    }
+    .wish {
+        font-size: 18px;
+    }
+    .wish:hover{
+        font-size:19px;
+    }
+    .terms {
+        font-size: 16px;
+    }
+    .terms:hover{
+        font-size:17px;
+    }
+    .privacy {
+        font-size: 16px;
+    }
+    .privacy:hover{
+        font-size:17px;
+    }
+    .map {
+        font-size: 16px;
+    }
+    .map:hover{
+        font-size:17px;
+    }
+    .tech {
+        font-size: 18px;
+    }
+    .tech:hover{
+        font-size:19px;
+    }
+    .addres {
+        font-size: 16px;
+    }
+    .addres:hover{
+        font-size:17px;
+    }
+    .khulna {
+        font-size: 16px;
+    }
+    .khulna:hover{
+        font-size:17px;
+    }
+    .footer-div {
+        height: 190px;
+    }
+    .last-button {
+        margin-left: -161px;
+        margin-top: 35px;
     }
     
 }
@@ -347,6 +481,73 @@
     }
     .right-div{
         max-width:220px;
+    }
+    .usa {
+        font-size: 17px;
+    }
+    .usa:hover{
+        font-size:18px;
+    }
+    .email {
+        font-size: 16px;
+    }
+    .email:hover{
+        font-size:17px;
+    }
+    .call {
+        font-size: 16px;
+    }
+    .call:hover{
+        font-size:17px;
+    }
+    .wish {
+        font-size: 18px;
+    }
+    .wish:hover{
+        font-size:19px;
+    }
+    .terms {
+        font-size: 16px;
+    }
+    .terms:hover{
+        font-size:17px;
+    }
+    .privacy {
+        font-size: 16px;
+    }
+    .privacy:hover{
+        font-size:17px;
+    }
+    .map {
+        font-size: 16px;
+    }
+    .map:hover{
+        font-size:17px;
+    }
+    .tech {
+        font-size: 18px;
+    }
+    .tech:hover{
+        font-size:19px;
+    }
+    .addres {
+        font-size: 16px;
+    }
+    .addres:hover{
+        font-size:17px;
+    }
+    .khulna {
+        font-size: 16px;
+    }
+    .khulna:hover{
+        font-size:17px;
+    }
+    .footer-div {
+        height: 190px;
+    }
+    .last-button {
+        margin-left: -161px;
+        margin-top: 35px;
     }
     
 }
@@ -403,6 +604,73 @@
     .web{
         text-align: center;
     }
+    .usa {
+        font-size: 17px;
+    }
+    .usa:hover{
+        font-size:18px;
+    }
+    .email {
+        font-size: 16px;
+    }
+    .email:hover{
+        font-size:17px;
+    }
+    .call {
+        font-size: 16px;
+    }
+    .call:hover{
+        font-size:17px;
+    }
+    .wish {
+        font-size: 18px;
+    }
+    .wish:hover{
+        font-size:19px;
+    }
+    .terms {
+        font-size: 16px;
+    }
+    .terms:hover{
+        font-size:17px;
+    }
+    .privacy {
+        font-size: 16px;
+    }
+    .privacy:hover{
+        font-size:17px;
+    }
+    .map {
+        font-size: 16px;
+    }
+    .map:hover{
+        font-size:17px;
+    }
+    .tech {
+        font-size: 18px;
+    }
+    .tech:hover{
+        font-size:19px;
+    }
+    .addres {
+        font-size: 16px;
+    }
+    .addres:hover{
+        font-size:17px;
+    }
+    .khulna {
+        font-size: 16px;
+    }
+    .khulna:hover{
+        font-size:17px;
+    }
+    .footer-div {
+        height: 190px;
+    }
+    .last-button {
+        margin-left: -161px;
+        margin-top: 35px;
+    }
     
 }
 
@@ -438,7 +706,7 @@
         font-size:14px;
     }
     .usa {
-        font-size: 18px;
+        font-size: 17px;
     }
     .usa:hover{
         font-size:18px;
@@ -446,8 +714,14 @@
     .email {
         font-size: 16px;
     }
+    .email:hover{
+        font-size:17px;
+    }
     .call {
         font-size: 16px;
+    }
+    .call:hover{
+        font-size:17px;
     }
     .wish {
         font-size: 18px;
@@ -458,11 +732,20 @@
     .terms {
         font-size: 16px;
     }
+    .terms:hover{
+        font-size:17px;
+    }
     .privacy {
         font-size: 16px;
     }
+    .privacy:hover{
+        font-size:17px;
+    }
     .map {
         font-size: 16px;
+    }
+    .map:hover{
+        font-size:17px;
     }
     .tech {
         font-size: 18px;
@@ -473,11 +756,21 @@
     .addres {
         font-size: 16px;
     }
+    .addres:hover{
+        font-size:17px;
+    }
     .khulna {
         font-size: 16px;
     }
+    .khulna:hover{
+        font-size:17px;
+    }
     .footer-div {
         height: 190px;
+    }
+    .last-button {
+        margin-left: -161px;
+        margin-top: 35px;
     }
 }
 
@@ -722,8 +1015,14 @@
     .email {
         font-size: 12px;
     }
+    .email:hover{
+        font-size:13px;
+    }
     .call {
         font-size: 12px;
+    }
+    .call:hover{
+        font-size:13px;
     }
     .wish {
         font-size: 14px;
@@ -734,11 +1033,20 @@
     .terms {
         font-size: 12px;
     }
+    .terms:hover{
+        font-size:13px;
+    }
     .privacy {
         font-size: 12px;
     }
+    .privacy:hover{
+        font-size:13px;
+    }
     .map {
         font-size: 12px;
+    }
+    .map:hover{
+        font-size:13px;
     }
     .tech {
         font-size: 14px;
@@ -749,8 +1057,14 @@
     .addres {
         font-size: 12px;
     }
+    .addres:hover{
+        font-size:13px;
+    }
     .khulna {
         font-size: 12px;
+    }
+    .khulna:hover{
+        font-size:13px;
     }
     .footer-div {
         height: 190px;
@@ -822,32 +1136,62 @@
     .usa {
         font-size: 14px;
     }
+    .usa:hover{
+        font-size:15px;
+    }
     .email {
         font-size: 12px;
+    }
+    .email:hover{
+        font-size:13px;
     }
     .call {
         font-size: 12px;
     }
+    .call:hover{
+        font-size:13px;
+    }
     .wish {
         font-size: 14px;
+    }
+    .wish:hover{
+        font-size:15px;
     }
     .terms {
         font-size: 12px;
     }
+    .terms:hover{
+        font-size:13px;
+    }
     .privacy {
         font-size: 12px;
+    }
+    .privacy:hover{
+        font-size:13px;
     }
     .map {
         font-size: 12px;
     }
+    .map:hover{
+        font-size:13px;
+    }
     .tech {
         font-size: 14px;
+    }
+    .tech:hover{
+        font-size:15px;
     }
     .addres {
         font-size: 12px;
     }
+    .addres:hover{
+        font-size:13px;
+    }
     .khulna {
         font-size: 12px;
+    }
+    .khulna:hover{
+        font-size:13px;
     }
     .footer-div {
         height: 190px;
@@ -952,32 +1296,62 @@
     .usa {
         font-size: 14px;
     }
+    .usa:hover{
+        font-size:15px;
+    }
     .email {
         font-size: 12px;
+    }
+    .email:hover{
+        font-size:13px;
     }
     .call {
         font-size: 12px;
     }
+    .call:hover{
+        font-size:13px;
+    }
     .wish {
         font-size: 14px;
+    }
+    .wish:hover{
+        font-size:15px;
     }
     .terms {
         font-size: 12px;
     }
+    .terms:hover{
+        font-size:13px;
+    }
     .privacy {
         font-size: 12px;
+    }
+    .privacy:hover{
+        font-size:13px;
     }
     .map {
         font-size: 12px;
     }
+    .map:hover{
+        font-size:13px;
+    }
     .tech {
         font-size: 14px;
+    }
+    .tech:hover{
+        font-size:15px;
     }
     .addres {
         font-size: 12px;
     }
+    .addres:hover{
+        font-size:13px;
+    }
     .khulna {
         font-size: 12px;
+    }
+    .khulna:hover{
+        font-size:13px;
     }
     .footer-div {
         height: 190px;
@@ -1114,8 +1488,14 @@
     .email {
         font-size: 12px;
     }
+    .email:hover{
+        font-size:13px;
+    }
     .call {
         font-size: 12px;
+    }
+    .call:hover{
+        font-size:13px;
     }
     .wish {
         font-size: 14px;
@@ -1126,11 +1506,20 @@
     .terms {
         font-size: 12px;
     }
+    .terms:hover{
+        font-size:13px;
+    }
     .privacy {
         font-size: 12px;
     }
+    .privacy:hover{
+        font-size:13px;
+    }
     .map {
         font-size: 12px;
+    }
+    .map:hover{
+        font-size:13px;
     }
     .tech {
         font-size: 14px;
@@ -1141,8 +1530,14 @@
     .addres {
         font-size: 12px;
     }
+    .addres:hover{
+        font-size:13px;
+    }
     .khulna {
         font-size: 12px;
+    }
+    .khulna:hover{
+        font-size:13px;
     }
     .footer-div {
         height: 190px;
@@ -1164,32 +1559,62 @@
     .usa {
         font-size: 14px;
     }
+    .usa:hover{
+        font-size:15px;
+    }
     .email {
         font-size: 12px;
+    }
+    .email:hover{
+        font-size:13px;
     }
     .call {
         font-size: 12px;
     }
+    .call:hover{
+        font-size:13px;
+    }
     .wish {
         font-size: 14px;
+    }
+    .wish:hover{
+        font-size:15px;
     }
     .terms {
         font-size: 12px;
     }
+    .terms:hover{
+        font-size:13px;
+    }
     .privacy {
         font-size: 12px;
+    }
+    .privacy:hover{
+        font-size:13px;
     }
     .map {
         font-size: 12px;
     }
+    .map:hover{
+        font-size:13px;
+    }
     .tech {
         font-size: 14px;
+    }
+    .tech:hover{
+        font-size:15px;
     }
     .addres {
         font-size: 12px;
     }
+    .addres:hover{
+        font-size:13px;
+    }
     .khulna {
         font-size: 12px;
+    }
+    .khulna:hover{
+        font-size:13px;
     }
     .footer-div {
         height: 190px;
