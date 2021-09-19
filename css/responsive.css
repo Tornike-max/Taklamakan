@@ -1108,6 +1108,9 @@
     .usa {
         font-size: 14px;
     }
+    .usa:hover{
+        font-size:15px;
+    }
     .email {
         font-size: 12px;
     }
@@ -1116,6 +1119,9 @@
     }
     .wish {
         font-size: 14px;
+    }
+    .wish:hover{
+        font-size:15px;
     }
     .terms {
         font-size: 12px;
@@ -1128,6 +1134,9 @@
     }
     .tech {
         font-size: 14px;
+    }
+    .tech:hover{
+        font-size:15px;
     }
     .addres {
         font-size: 12px;
