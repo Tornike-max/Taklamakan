@@ -440,6 +440,9 @@
     .usa {
         font-size: 18px;
     }
+    .usa:hover{
+        font-size:18px;
+    }
     .email {
         font-size: 16px;
     }
@@ -448,6 +451,9 @@
     }
     .wish {
         font-size: 18px;
+    }
+    .wish:hover{
+        font-size:19px;
     }
     .terms {
         font-size: 16px;
@@ -460,6 +466,9 @@
     }
     .tech {
         font-size: 18px;
+    }
+    .tech:hover{
+        font-size:19px;
     }
     .addres {
         font-size: 16px;
@@ -707,6 +716,9 @@
     .usa {
         font-size: 14px;
     }
+    .usa:hover{
+        font-size:15px;
+    }
     .email {
         font-size: 12px;
     }
@@ -715,6 +727,9 @@
     }
     .wish {
         font-size: 14px;
+    }
+    .wish:hover{
+        font-size:15px;
     }
     .terms {
         font-size: 12px;
@@ -727,6 +742,9 @@
     }
     .tech {
         font-size: 14px;
+    }
+    .tech:hover{
+        font-size:15px;
     }
     .addres {
         font-size: 12px;
