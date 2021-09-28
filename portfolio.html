@@ -8,6 +8,7 @@
     <script src="https://kit.fontawesome.com/6de6aa5275.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animation.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,38 +16,42 @@
 </head>
 <body>
     <header>
-    <div class="navbar">
-        <div class="logo">
-            <h2 class="logo-text">0zBeTa</h2>
+        <div class="navbar">
+            <div class="logo">
+                <h2 class="logo-text">0zBeTa</h2>
+            </div>
+            <nav class="navbar-links" id="navBarLinks">
+                <ul class="nav-ul">
+                    <li class="nav-li">
+                        <a href="index.html">HOME</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="service.html">SERVICE</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="about.html">ABOUT</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="blog.html">BLOG</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="portfolio.html">PORTFOLIO</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="pricing.html">PRICING</a>
+                    </li>
+                    <li class="nav-li">
+                        <a  href="contact.html">CONTACT</a>
+                    </li>
+                </ul>
+            </nav>
+    
+            <div class="toggle-button" id="burgerBar">
+                <i class="fas fa-bars"></i>
+              </div>
+    
         </div>
-        <nav class="navbar-links">
-            <ul class="nav-ul">
-                <li class="nav-li">
-                    <a href="index.html">HOME</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="service.html">SERVICE</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="about.html">ABOUT</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="blog.html">BLOG</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="portfolio.html">PORTFOLIO</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="pricing.html">PRICING</a>
-                </li>
-                <li class="nav-li">
-                    <a  href="contact.html">CONTACT</a>
-                </li>
-            </ul>
-        </nav>
-
-    </div>
-</header>
+    </header>
     <section class="portfolio">
         <div class="portfolio-bg">
             <h2 class="portfolio-head">PORTFOLIO</h2>
@@ -155,6 +160,7 @@
     <h1 class="me">This site was created by Ozbetta</h1>
 </div>
 </footer>
+<script src="script.js"></script>
 
 </body>
 </html>
