@@ -1651,9 +1651,7 @@
         max-width:500px;
     }
     .small{
-        top: 73.5%;
-        left: 54.2%;
-        height:600px;
+       display: none;
     }
     .serviceleft-div{
         height:400px;
@@ -1675,8 +1673,185 @@
     }
 }
 
-@media only screen and (max-width: 1179px){
-    .small{
-        left: 51.7%;
+@media only screen and (max-width: 1189px){
+    .html-text {
+        font-size: 17px;
+        margin-top: 30px;
+    }
+    .psd-text{
+        margin-top:30px;
     }
 }
+
+@media only screen and (max-width: 1080px){
+    .text-button{
+        top:7%;
+        max-width:130px;
+        height:40px;
+    }
+}
+
+@media only screen and (max-width: 950px){
+
+    .text-button{
+        top:7%;
+        max-width:130px;
+        height:40px;
+    }
+    .html-text {
+        font-size: 15px;
+    }
+    .service-right {
+        max-width: 140px;
+        width: 100%;
+        height: 50px;
+        font-size:10px;
+    }
+    .service-left{
+        max-width: 140px;
+        width: 100%;
+        height: 50px;
+        font-size:10px;
+    }
+    .service-head{
+        font-size:30px;
+    }
+}
+
+@media only screen and (max-width: 720px){
+
+    .text-button{
+        top:7%;
+        max-width:130px;
+        height:40px;
+    }
+    .html-text {
+        font-size: 14px;
+    }
+    .text-button {
+        top: 7%;
+        max-width: 120px;
+        height: 30px;
+    }
+    .psd-text{
+        font-size:20px;
+    }
+    .path{
+        font-size:25px;
+    }
+    .wordpress{
+        font-size:16px;
+    }
+    .service-line{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 630px){
+    .service-left{
+        left:25%;
+    }
+    .service-right{
+        left:28%;
+    }
+    .html-text {
+        font-size: 13px;
+    }
+    .psd-text {
+        font-size: 18px;
+    }
+    .path {
+        font-size: 18px;
+    }
+    .wordpress {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 530px){
+    .text-button{
+        left:30%;
+        top:6%;
+    }
+    .html-text {
+        font-size: 12px;
+    }
+    .service-left {
+        max-width: 110px;
+        width: 100%;
+        height: 40px;
+        font-size: 9px;
+    }
+    .service-right {
+        max-width: 110px;
+        width: 100%;
+        height: 40px;
+        font-size: 9px;
+    }
+}
+@media only screen and (max-width: 450px){
+    .text-button{
+        left:20%;
+        top:6%;
+    }
+    .html-text {
+        font-size: 11px;
+    }
+    .wordpress {
+        font-size: 12px;
+    }
+    .footer-tap {
+        max-width: 100px;
+        width: 100%;
+        height: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 360px){
+    .text-button{
+        left:20%;
+        top:6%;
+    }
+    .html-text {
+        font-size: 10px;
+    }
+    .wordpress {
+        font-size: 11px;
+    }
+    .footer-tap {
+        max-width: 100px;
+        width: 100%;
+        height: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 360px){
+    .text-button{
+        left:20%;
+        top:6%;
+        max-width: 115px;
+        height: 30px;
+    }
+    .service-left {
+        max-width: 100px;
+        width: 100%;
+        height: 30px;
+        font-size: 8px;
+        left: 13%;
+    }
+    .service-right {
+        max-width: 100px;
+        width: 100%;
+        height: 30px;
+        font-size: 8px;
+        left: 15%;
+    }
+    .tap {
+        max-width: 100px;
+        width: 100%;
+        height: 30px;
+
+}
+
