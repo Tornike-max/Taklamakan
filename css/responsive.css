@@ -1853,5 +1853,598 @@
         width: 100%;
         height: 30px;
 
+    }
 }
+
+/* about */
+
+@media only screen and (max-width: 1920px){
+    .cont-bg{
+        height: 380px;
+        max-width: 420px;
+    }
+    .h2-div {
+        max-width: 420px;
+        width: 100%;
+        height: 380px;
+    }
+    .h2-text {
+        font-size: 23px;
+    }
+    .secondbg{
+        height: 380px;
+        max-width: 420px;
+    }
+    .second-h2{
+        max-width: 420px;
+        width: 100%;
+        height: 380px;
+    }
+    .h2p {
+        font-size: 23px;
+    }
+    .ic {
+        height: 190px;
+        align-items: flex-end;
+    }
+    .karlo {
+        height: 360px;
+        max-width: 430px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .giorgi{
+        height: 360px;
+        max-width: 430px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .tornike{
+        height: 360px;
+        max-width: 430px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .footer-div {
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .supporters {
+        max-width: 1920px;
+        height: 320px;
+    }
+    .bg-sup {
+        height: 300px;
+        max-width: 330px;
+    }
+    .te {
+        max-width: 330px;
+        width: 100%;
+        height: 300px;
+    }
+    .teqsti {
+        font-size: 25px;
+    }
+    .bg-su{
+        height: 300px;
+        max-width: 330px;
+    }
+    .tep{
+        max-width: 330px;
+        width: 100%;
+        height: 300px;
+    }
+    .teq{
+        font-size: 25px;
+    }
+    .bg-s{
+        height: 300px;
+        max-width: 330px;
+    }
+    .ta{
+        max-width: 330px;
+        width: 100%;
+        height: 300px;
+    }
+    .ti{
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (max-width: 1615px){
+    .ti {
+        font-size: 23px;
+    }
+    .teqsti{
+        font-size: 23px;
+    }
+    .teq{
+        font-size: 23px;
+    }
+    .h2-text {
+        font-size: 21px;
+    }
+    .h2-head {
+        font-size: 28px;
+    }
+    .h2-sec {
+        font-size: 28px;
+    }
+    .h2p {
+        font-size: 21px;
+    }
+}
+
+@media only screen and (max-width: 1395px){
+    .ti {
+        font-size: 21px;
+    }
+    .teqsti{
+        font-size: 21px;
+    }
+    .teq{
+        font-size: 21px;
+    }
+}
+
+@media only screen and (max-width: 1246px){
+    .ti {
+        font-size: 20px;
+    }
+    .teqsti{
+        font-size: 19px;
+    }
+    .teq{
+        font-size: 20px;
+    }
+    .h2-text {
+        font-size: 19px;
+    }
+    .h2-head {
+        font-size: 25px;
+    }
+    .h2-sec {
+        font-size: 25px;
+    }
+    .h2p {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .tornike {
+        height: 340px;
+        max-width: 320px;
+    }
+    .giorgi {
+        height: 340px;
+        max-width: 320px;
+    }
+    .karlo {
+        height: 340px;
+        max-width: 320px;
+    }
+    .secondbg {
+        height: 310px;
+        max-width: 320px;
+    }
+    .cont-bg {
+        height: 310px;
+        max-width: 320px;
+    }
+    .h2-head {
+        font-size: 22px;
+    }
+    .h2-text {
+        font-size: 16px;
+    }
+    .h2-sec {
+        font-size: 22px;
+    }
+    .h2p {
+        font-size: 16px;
+    }
+    .ti {
+        font-size: 16px;
+    }
+    .ta {
+        height: 230px;
+    }
+    .bg-s {
+        height: 230px;
+        max-width: 330px;
+    }
+    .tep {
+        height: 230px;
+    }
+    .teq {
+        font-size: 16px;
+    }
+    .bg-su {
+        height: 230px;
+    }
+    .teqsti {
+        font-size: 15px;
+    }
+    .te {
+        height: 230px;
+    }
+    .bg-sup {
+        height: 230px;
+    }
+}
+
+@media only screen and (max-width: 885px){
+    .h2-text {
+        font-size: 14px;
+    }
+    .h2-head {
+        font-size: 20px;
+    }
+    .cont-bg {
+        height: 280px;
+    }
+    .h2-sec {
+        font-size: 20px;
+    }
+    .h2p {
+        font-size: 14px;
+    }
+    .secondbg {
+        height: 280px;
+    }
+}
+
+@media only screen and (max-width: 796px){
+    .teqsti {
+        font-size: 13px;
+    }
+    .teq {
+        font-size: 13px;
+    }
+    .ti {
+        font-size: 13px;
+    }
+    .ta {
+        height: 200px;
+    }
+    .bg-s {
+        height: 200px;
+    }
+    .tep {
+        height: 200px;
+    }
+    .bg-su {
+        height: 200px;
+    }
+    .te {
+        height: 200px;
+    }
+    .bg-sup {
+        height: 200px;
+    }
+    .secondbg {
+        height: 250px;
+    }
+    .h2-sec {
+        font-size: 18px;
+    }
+    .h2p {
+        font-size: 12px;
+    }
+    .second-h2 {
+        height: 250px;
+    }
+    .container {
+        height: 300px;
+    }
+    .h2-text {
+        font-size: 12px;
+    }
+    .h2-head {
+        font-size: 18px;
+    }
+    .cont-bg {
+        height: 250px;
+    }
+    .come {
+        font-size: 30px;
+    }
+    .on-text {
+        font-size:18px;
+    }
+    .about-head {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 710px){
+    .h2-text {
+        font-size: 10px;
+    }
+    .h2p {
+        font-size: 10px;
+    }
+    .h2-sec {
+        font-size: 17px;
+    }
+    .h2-head {
+        font-size: 17px;
+    }
+    .teqsti {
+        font-size: 11px;
+    }
+    .teq {
+        font-size: 12px;
+    }
+    .ti {
+        font-size: 12px;
+    }
+    .tornike {
+        height: 240px;
+        max-width: 220px;
+        border-radius: 20px;
+    }
+    .giorgi {
+        height: 240px;
+        max-width: 220px;
+        border-radius: 20px;
+    }
+    .karlo {
+        height: 240px;
+        max-width: 220px;
+        border-radius: 20px;
+    }
+    .milianer {
+        font-size: 18px;
+    }
+    .apcika {
+        font-size: 18px;
+    }
+    .qista {
+        font-size: 18px;
+    }
+    .people {
+        max-width: 1920px;
+        width: 100%;
+        height: 350px;
+    }
+    .do {
+        font-size: 25px;
+    }
+    .happy {
+        font-size: 25px;
+    }
+    .about-lastsec {
+        max-width: 1920px;
+        width: 100%;
+        height: 1335px;
+    }
+    .come {
+        font-size: 25px;
+    }
+    .about-header {
+        height: 260px;
+    }
+    .bea {
+        max-width: 110px;
+        width: 100%;
+        height: 30px;
+}
+
+@media only screen and (max-width: 545px){
+    .tornike {
+        height: 200px;
+        max-width: 200px;
+        border-radius: 20px;
+    }
+    .giorgi {
+        height: 200px;
+        max-width: 200px;
+        border-radius: 20px;
+    }
+    .karlo {
+        height: 200px;
+        max-width: 200px;
+        border-radius: 20px;
+    }
+    .milianer {
+        font-size: 14px;
+    }
+    .apcika {
+        font-size: 14px;
+    }
+    .qista {
+        font-size: 14px;
+    }
+    .chafiozi {
+        font-size: 12px;
+    }
+    .bro {
+        font-size: 12px;
+    }
+    .beer {
+        font-size: 12px;
+    }
+    .people {
+        height: 300px;
+    }
+    .child-head {
+        font-size: 25px;
+    }
+    .child-text {
+        font-size: 18px;
+    }
+    .ta {
+        height: 170px;
+    }
+    .bg-s {
+        height: 170px;
+    }
+    .ti {
+        font-size: 11px;
+    }
+    .tep {
+        height: 170px;
+    }
+    .teq {
+        font-size: 11px;
+    }
+    .bg-su {
+        height: 170px;
+    }
+    .te {
+        height: 170px;
+    }
+    .teqsti {
+        font-size: 10px;
+    }
+    .bg-sup {
+        height: 170px;
+    }
+    .about-lastsec {
+        height: 1260px;
+    }
+    .supporters {
+        height: 280px;
+    }
+    .me {
+        font-size: 11px;
+    }
+    .end {
+        font-size: 11px;
+    }
+    .secondbg {
+        height: 200px;
+    }
+    .h2-sec {
+        font-size: 15px;
+    }
+    .h2p {
+        font-size: 9px;
+    }
+    .second-h2 {
+        height: 200px;
+    }
+    .cont-bg {
+        height: 200px;
+    }
+    .h2-head {
+        font-size: 15px;
+    }
+    .h2-text {
+        font-size: 8px;
+    }
+    .h2-div {
+        height: 200px;
+    }
+    .container {
+        height: 260px;
+    }
+
+}
+
+@media only screen and (max-width: 475px){
+    .bg-s {
+        height: 130px;
+    }
+    .ta {
+        height: 130px;
+    }
+    .ti {
+        font-size: 8px;
+    }
+    .tep {
+        height: 130px;
+    }
+    .teq {
+        font-size: 8px;
+    }
+    .bg-su {
+        height: 130px;
+    }
+    .teqsti {
+        font-size: 7px;
+    }
+    .te {
+        height: 130px;
+    }
+    .bg-sup {
+        height: 130px;
+    }
+    .supporters {
+        height: 200px;
+    }
+    .about-lastsec {
+        height: 1160px;
+    }
+    .footer-div {
+        height: 220px;
+    }
+    .h2-text {
+        font-size: 7px;
+    }
+    .h2-head {
+        font-size: 11px;
+    }
+    .h2-sec {
+        font-size: 11px;
+    }
+    .h2p {
+        font-size: 8px;
+    }
+    .secondbg {
+        height: 170px;
+    }
+    .cont-bg {
+        height: 170px;
+    }
+    .come {
+        font-size: 20px;
+    }
+    .on-text {
+        font-size: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 351px){
+    .secondbg {
+        height: 130px;
+    }
+    .second-h2 {
+        height: 130px;
+    }
+    .h2p {
+        font-size: 5px;
+    }
+    .h2-sec {
+        font-size: 9px;
+    }
+    .cont-bg {
+        height: 130px;
+    }
+    .h2-div {
+        height: 130px;
+    }
+    .h2-text {
+        font-size: 5px;
+    }
+    .h2-head {
+        font-size: 9px;
+    }
+    .container {
+        height: 170px;
+    }
+}
+
+
+
 
