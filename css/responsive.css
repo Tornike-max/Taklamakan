@@ -2444,6 +2444,681 @@
         height: 170px;
     }
 }
+}
+
+
+/* blog */
+
+@media only screen and (max-width: 1920px){
+    .bg-blog {
+        height: 550px;
+        max-width: 1520px;
+    }
+    .blog-bg {
+        height: 380px;
+    }
+    .container2 {
+        height: 650px;
+    }
+    .green-down {
+        max-width: 290px;
+        height: 350px;
+    }
+    .green-head {
+        font-size: 35px;
+        margin-left: 27px
+    }
+    .webd {
+        font-size: 25px;
+        color: white;
+        margin-left: 30px;
+        margin-top: 18px;
+    }
+    .blog-sc {
+        height: 320px;
+    }
+    .blog-headdiv {
+        max-width: 1520px;
+        height: 250px;
+    }
+    .mojahid-div {
+        max-width: 1510px;
+        height: 250px;
+    }
+    .isa {
+        font-size: 45px;
+        text-align: center;
+    }
+    .asa {
+        font-size: 30px;
+        text-align: center;
+    }
+    .islam {
+        font-size: 30px;
+    }
+    .great-dean {
+        max-width: 300px;
+        height:250px;
+    }
+    .recent {
+        font-size: 35px;
+    }
+    .poker{
+        font-size:20px;
+    }
+    .another-bg{
+        height: 550px;
+        max-width: 1520px;
+    }
+    .another-sc{
+        height:570px;
+    }
+    .corona {
+        max-width: 300px;
+        height: 340px;
+    }
+    .login {
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    .tags {
+        font-size: 40px;
+    }
+    .covid-div {
+        max-width: 300px;
+        height: 250px;
+    }
+    .archive {
+        font-size: 35px;
+    }
+    .archive-text {
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (max-width: 1840px){
+    .bg-blog {
+        max-width: 1420px;
+    }
+    .mojahid-div {
+        max-width: 1410px;
+    }
+    .blog-headdiv {
+        max-width: 1420px;
+    }
+    .another-bg {
+        max-width: 1420px;
+    }
+}
+
+@media only screen and (max-width: 1745px){
+    .bg-blog {
+        max-width: 1320px;
+    }
+    .mojahid-div {
+        max-width: 1310px;
+    }
+    .blog-headdiv {
+        max-width: 1320px;
+    }
+    .another-bg {
+        max-width: 1320px;
+    }
+}
+
+@media only screen and (max-width: 1640px){
+    .bg-blog {
+        max-width: 1220px;
+    }
+    .mojahid-div {
+        max-width: 1210px;
+    }
+    .blog-headdiv {
+        max-width: 1220px;
+    }
+    .another-bg {
+        max-width: 1220px;
+    }
+}
+
+@media only screen and (max-width: 1540px){
+    .bg-blog {
+        max-width: 1120px;
+    }
+    .mojahid-div {
+        max-width: 1110px;
+    }
+    .blog-headdiv {
+        max-width: 1120px;
+    }
+    .another-bg {
+        max-width: 1120px;
+    }
+}
+
+@media only screen and (max-width: 1440px){
+    .bg-blog {
+        max-width: 1020px;
+    }
+    .mojahid-div {
+        max-width: 1010px;
+    }
+    .blog-headdiv {
+        max-width: 1020px;
+    }
+    .another-bg {
+        max-width: 1020px;
+    }
+    .isa {
+        font-size: 40px;
+    }
+    .asa {
+        font-size: 25px;
+    }
+    .islam {
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 1340px){
+    .bg-blog {
+        max-width: 920px;
+    }
+    .mojahid-div {
+        max-width: 910px;
+    }
+    .blog-headdiv {
+        max-width: 920px;
+    }
+    .another-bg {
+        max-width: 920px;
+    }
+}
+
+@media only screen and (max-width: 1240px){
+    .bg-blog {
+        max-width: 820px;
+    }
+    .mojahid-div {
+        max-width: 810px;
+    }
+    .blog-headdiv {
+        max-width: 820px;
+    }
+    .another-bg {
+        max-width: 820px;
+    }
+}
+
+@media only screen and (max-width: 1140px){
+    .bg-blog {
+        max-width: 720px;
+    }
+    .mojahid-div {
+        max-width: 710px;
+    }
+    .blog-headdiv {
+        max-width: 720px;
+    }
+    .another-bg {
+        max-width: 720px;
+    }
+    .isa {
+        font-size: 35px;
+    }
+    .asa {
+        font-size: 20px;
+    }
+    .islam {
+        font-size: 20px;
+    }
+    .green-head {
+        font-size: 30px;
+    }
+    .webd {
+        font-size: 20px;
+    }
+    .recent {
+        font-size: 30px;
+    }
+    .tags {
+        font-size: 35px;
+    }
+    .login {
+        font-size: 25px;
+    }
+    .archive {
+        font-size: 30px;
+    }
+    .archive-text {
+        font-size: 20px;
+        padding-left: 13px;
+    }
+    
+}
+
+@media only screen and (max-width: 1040px){
+    .bg-blog {
+        max-width: 620px;
+    }
+    .mojahid-div {
+        max-width: 610px;
+    }
+    .blog-headdiv {
+        max-width: 620px;
+    }
+    .another-bg {
+        max-width: 620px;
+    }
+}
+
+@media only screen and (max-width: 940px){
+    .bg-blog {
+        max-width: 520px;
+    }
+    .mojahid-div {
+        max-width: 510px;
+    }
+    .blog-headdiv {
+        max-width: 520px;
+    }
+    .another-bg {
+        max-width: 520px;
+    }
+    .nav-li a {
+        font-size: 10px;
+    }
+    .nav-li {
+        margin: 10px;
+    }
+    .nav-ul {
+        align-items: flex-end;
+    }
+}
+
+@media only screen and (max-width: 840px){
+    .bg-blog {
+        max-width: 420px;
+    }
+    .mojahid-div {
+        max-width: 410px;
+    }
+    .blog-headdiv {
+        max-width: 420px;
+    }
+    .another-bg {
+        max-width: 420px;
+    }
+    .isa {
+        font-size: 25px;
+    }
+    .asa {
+        font-size: 15px;
+    }
+    .islam {
+        font-size: 15px;
+    }
+    .green-head {
+        font-size: 25px;
+    }
+    .webd {
+        font-size: 17px;
+    }
+    .recent {
+        font-size: 25px;
+    }
+    .tags {
+        font-size: 30px;
+    }
+    .login {
+        font-size: 20px;
+    }
+    .archive {
+        font-size: 25px;
+    }
+    .archive-text {
+        font-size: 17px;
+        padding-left: 13px;
+    }
+    .another-bg {
+        height: 445px;
+    }
+    .another-sc {
+        height: 435px;
+    }
+    .bg-blog {
+        height: 445px;
+    }
+    .green-down {
+        max-width: 290px;
+        height: 319px;
+    }
+    .container2 {
+        height: 555px;
+    }
+    
+}
+
+@media only screen and (max-width: 740px){
+    .bg-blog {
+        max-width: 320px;
+    }
+    .mojahid-div {
+        max-width: 310px;
+    }
+    .blog-headdiv {
+        max-width: 320px;
+    }
+    .another-bg {
+        max-width: 320px;
+    }
+    .isa {
+        font-size: 20px;
+    }
+    .asa {
+        font-size: 13px;
+    }
+    .islam {
+        font-size: 13px;
+    }
+    .green-head {
+        font-size: 20px;
+    }
+    .webd {
+        font-size: 15px;
+    }
+    .recent {
+        font-size: 20px;
+    }
+    .tags {
+        font-size: 25px;
+    }
+    .login {
+        font-size: 17px;
+    }
+    .archive {
+        font-size: 20px;
+    }
+    .archive-text {
+        font-size: 15px;
+        padding-left: 13px;
+    }
+    .another-bg {
+        height: 390px;
+    }
+    .another-sc {
+        height: 380px;
+    }
+    .bg-blog {
+        height: 390px;
+    }
+    .green-down {
+        height: 260px;
+    }
+    .container2 {
+        height: 500px;
+    }
+    .corona {
+        max-width: 300px;
+        height: 230px;
+    }
+    .nav-li a {
+        font-size: 10px;
+    }
+    .nav-li {
+        margin: 10px;
+    }
+    .nav-ul {
+        align-items: flex-end;
+    }
+    
+}
+
+@media only screen and (max-width: 640px){
+    .bg-blog {
+        max-width: 320px;
+    }
+    .mojahid-div {
+        max-width: 310px;
+    }
+    .blog-headdiv {
+        max-width: 320px;
+    }
+    .another-bg {
+        max-width: 320px;
+    }
+    .green-down {
+        max-width: 205px;
+    }
+    .great-dean {
+        max-width: 205px;
+    }
+    .isa {
+        font-size: 20px;
+    }
+    .asa {
+        font-size: 13px;
+    }
+    .islam {
+        font-size: 13px;
+    }
+    .green-head {
+        font-size: 20px;
+    }
+    .webd {
+        font-size: 15px;
+    }
+    .recent {
+        font-size: 15px;
+    }
+    .poker {
+        font-size: 14px;
+    }
+    .tags {
+        font-size: 25px;
+    }
+    .login {
+        font-size: 17px;
+    }
+    .archive {
+        font-size: 20px;
+    }
+    .archive-text {
+        font-size: 15px;
+        padding-left: 13px;
+    }
+    .corona {
+        max-width: 205px;
+    }
+    .covid-div {
+        max-width: 205px;
+    }
+    .line-green{
+        display: none;
+    }
+    
+}
+
+@media only screen and (max-width: 550px){
+    .bg-blog {
+        height: 260px;
+        max-width: 225px;
+    }
+    .mojahid-div {
+        max-width: 210px;
+    }
+    .blog-headdiv {
+        max-width: 220px;
+    }
+    .another-bg {
+        height: 260px;
+        max-width: 225px;
+    }
+    .another-sc {
+        height: 260px;
+    }
+    .green-down {
+        height: 180px;
+    }
+    .corona {
+        height: 212px;
+    }
+    .august{
+        display: none;
+    }
+    .isa {
+        font-size: 15px;
+    }
+    .asa {
+        font-size: 11px;
+    }
+    .islam {
+        font-size: 11px;
+    }
+    .great-dean {
+        height: 200px;
+    }
+    .blog-sc {
+        height: 280px;
+    }
+    .green-head {
+        font-size: 13px;
+    }
+    .webd {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+    .container2 {
+        height: 370px;
+    }
+    .recent {
+        font-size: 13px;
+    }
+    .poker {
+        font-size: 12px;
+    }
+    .tags {
+        font-size: 20px;
+    }
+    .login {
+        font-size: 15px;
+    }
+    .archive {
+        font-size: 17px;
+    }
+    .archive-text {
+        font-size: 13px;
+        padding-left: 13px;
+    }
+    .blog-headdiv {
+        height: 200px;
+    }
+    .covid-div {
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 460px){
+    .green-down {
+        max-width: 160px;
+    }
+    .great-dean {
+        max-width: 160px;
+    }
+    .corona {
+        max-width: 160px;
+    }
+    .covid-div {
+        max-width: 160px;
+    }
+    .blog-head {
+        font-size: 20px;
+    }
+    .nav-li a {
+        font-size: 10px;
+    }
+    .nav-li {
+        margin: 10px;
+    }
+    .nav-ul {
+        align-items: flex-end;
+    }
+}
+
+@media only screen and (max-width: 410px){
+    .bg-blog {
+        height: 200px;
+        max-width: 190px;
+    }
+    .green-down {
+        max-width: 130px;
+        height: 120px;
+    }
+    .green-head {
+        font-size: 10px;
+    }
+    .webd {
+        font-size: 9px;
+        margin-top: 5px;
+    }
+    .container2 {
+        height: 310px;
+    }
+    .islam {
+        font-size: 7px;
+    }
+    .asa {
+        font-size: 9px;
+        padding-left:0px;
+        padding-top: 10px;
+    }
+    .isa {
+        font-size: 10px;
+        padding-left:0px;
+        padding-top: 10px;
+    }
+    .poker {
+        font-size: 11px;
+    }
+    .tags {
+        font-size: 17px;
+    }
+    .login {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .another-bg{
+        height: 200px;
+        max-width: 190px;
+    }
+    .great-dean{
+        max-width: 130px;
+        height: 200px;
+    }
+    .corona{
+        max-width: 130px;
+        height: 151px;
+    }
+    .another-sc {
+        height: 195px;
+    }
+    .covid-div{
+        max-width: 130px;
+        height: 200px;
+    }
+    .nav-li a {
+        font-size: 10px;
+    }
+    .nav-li {
+        margin: 10px;
+    }
+    .nav-ul {
+        align-items: flex-end;
+    }
+}
+
+
 
 
 
