@@ -3130,9 +3130,7 @@
     .ozb {
         max-width: 281px;
     }
-    .ozb:hover{
-        max-width:286px;
-    }
+    
 }
 
 @media only screen and (max-width: 1300px){
@@ -3248,6 +3246,85 @@
         font-size: 13px;
     }
 }
+
+
+/* pricing */
+
+@media only screen and (max-width: 1000px){
+    .pricing-list{
+        flex-wrap: wrap;
+    }
+    .pricing-sc {
+        height: 1230px;
+    }
+    .but-pricing{
+        margin-top: 437px;
+        margin-left: 27px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .pricing-sc {
+        height: 1985px;
+    }
+    .but-pricing {
+        margin-top: 1200px;
+    }
+
+}
+
+/* contact */
+
+@media only screen and (max-width: 900px){
+    .big-map {
+        flex-wrap: wrap;
+    }
+    .contact-sc {
+        height: 1200px;
+    }
+}
+
+@media only screen and (max-width: 540px){
+    .subject {
+        width: 400px;
+        margin-left: 0px;
+    }
+    .map-cont {
+        font-size: 25px;
+        text-align: center;
+    }
+    .con-icons {
+        margin:0 auto;
+        align-items: center;
+    }
+    .area{
+        max-width:350px;
+    }
+    .contact-wrap {
+        font-size: 25px;
+    }
+    .contact-teqsti {
+        font-size: 17px;
+    }
+}
+@media only screen and (max-width: 440px){
+    .area{
+        max-width:300px;
+    }
+    .contact-wrap {
+        font-size: 22px;
+    }
+    .contact-teqsti {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 380px){
+    .area{
+        max-width:270px;
+    }
+}
+
 
 
 

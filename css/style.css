@@ -35,6 +35,7 @@
 .nav-li a{
     font-size:20px;
     color:#D1E0FB;
+    transition:0.5s;
     font-family: 'Roboto Mono', monospace;
 }
 .navbar-links.active{
@@ -52,7 +53,7 @@
 
 }
 .nav-li a:hover{
-    font-size:30px;
+    font-size:21px;
     transition:0.5s;
     font-family: 'Montserrat', sans-serif;
 }
